@@ -1,0 +1,17 @@
+{
+  "name": "currency-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "currency-converter": "^0.1.12",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
